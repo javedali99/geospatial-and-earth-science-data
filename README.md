@@ -209,23 +209,117 @@ Leverage these sources for water resource datasets:
 
 ## 🌦️ Climate and Meteorological Data
 
-Access cutting-edge climate and meteorological datasets:
+Climate and meteorological datasets provide crucial information for understanding and analyzing atmospheric conditions, historical trends, and future projections. These datasets support a variety of applications, including climate change research, agricultural planning, disaster risk assessment, and weather forecasting.
+
+Below is a list of widely used datasets, offering global and regional climate information such as temperature, precipitation, wind, humidity, and more.
+
 
 1. **ERA5 Reanalysis Data**  
    🔗 [https://cds.climate.copernicus.eu/](https://cds.climate.copernicus.eu/)  
    ✅ **Features**:
    - Global climate reanalysis data from 1950 onward.
-   - Includes temperature, precipitation, and wind datasets.
+   - Includes temperature, precipitation, wind, and other essential climate variables.
    - Requires registration on the Copernicus Climate Data Store.
 
 2. **CMIP6 Climate Models**  
    🔗 [https://esgf-node.llnl.gov/projects/cmip6/](https://esgf-node.llnl.gov/projects/cmip6/)  
    ✅ **Features**:
-   - Multi-model climate projections.
+   - Multi-model climate projections for historical and future scenarios.
    - Widely used in IPCC reports and climate research.
    - Free access for registered users.
+
+3. **NOAA Global Historical Climatology Network (GHCN)**  
+   🔗 [https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network](https://www.ncei.noaa.gov/products/land-based-station/global-historical-climatology-network)  
+   ✅ **Features**:
+   - Provides long-term climate records, including temperature, precipitation, and snowfall.
+   - Data collected from land-based weather stations globally.
+   - Supports trend analysis and climate variability studies.
+
+4. **NOAA Integrated Surface Database (ISD)**  
+   🔗 [https://www.ncei.noaa.gov/products/land-based-station/integrated-surface-database](https://www.ncei.noaa.gov/products/land-based-station/integrated-surface-database)  
+   ✅ **Features**:
+   - Comprehensive global dataset of hourly weather observations.
+   - Includes variables like temperature, wind, humidity, and pressure.
+   - Useful for weather modeling and climatological studies.
+
+5. **NASA Earth Observing System Data and Information System (EOSDIS)**  
+   🔗 [https://earthdata.nasa.gov/](https://earthdata.nasa.gov/)  
+   ✅ **Features**:
+   - Provides access to satellite-based observations of Earth’s climate and weather.
+   - Includes MODIS, Landsat, and other missions covering cloud cover, temperature, and radiation.
+   - Supports atmospheric, land, and ocean studies.
+
+6. **ECMWF Seasonal Forecasts**  
+   🔗 [https://www.ecmwf.int/en/forecasts/datasets](https://www.ecmwf.int/en/forecasts/datasets)  
+   ✅ **Features**:
+   - Long-range forecasts of temperature, precipitation, and wind.
+   - Monthly, seasonal, and yearly projections.
+   - Ideal for agricultural planning, disaster preparedness, and energy management.
+
+7. **WorldClim**  
+   🔗 [https://www.worldclim.org/](https://www.worldclim.org/)  
+   ✅ **Features**:
+   - High-resolution climate data for temperature, precipitation, and other variables.
+   - Historical (1970–2000) and future (2050, 2070) scenarios available.
+   - Widely used for ecological and biodiversity research.
+
+8. **CHIRPS (Climate Hazards Group InfraRed Precipitation with Station Data)**  
+   🔗 [https://www.chc.ucsb.edu/data/chirps](https://www.chc.ucsb.edu/data/chirps)  
+   ✅ **Features**:
+   - Provides rainfall data globally with a resolution of 0.05° (~5 km).
+   - Combines satellite imagery with in-situ observations.
+   - Supports drought monitoring and agricultural research.
+
+9. **GridMet**  
+   🔗 [http://www.climatologylab.org/gridmet.html](http://www.climatologylab.org/gridmet.html)  
+   ✅ **Features**:
+   - Provides daily high-resolution (~4 km) meteorological data for the contiguous United States.
+   - Includes temperature, precipitation, humidity, wind, and solar radiation variables.
+   - Widely used in agricultural, hydrological, and ecological modeling.
+
+10. **NOAA Climate Prediction Center (CPC)**  
+    🔗 [https://www.cpc.ncep.noaa.gov/](https://www.cpc.ncep.noaa.gov/)  
+    ✅ **Features**:
+    - Offers real-time and historical climate data.
+    - Includes ENSO (El Niño-Southern Oscillation) monitoring and seasonal outlooks.
+    - Essential for long-range weather forecasting.
+
+11. **Copernicus Atmosphere Monitoring Service (CAMS)**  
+    🔗 [https://atmosphere.copernicus.eu/](https://atmosphere.copernicus.eu/)  
+    ✅ **Features**:
+    - Provides global data on atmospheric composition, including greenhouse gases and air quality.
+    - Includes real-time and reanalysis datasets.
+    - Supports climate and environmental research.
+
+12. **HadCRUT Global Temperature Dataset**  
+    🔗 [https://www.metoffice.gov.uk/research/climate/maps-and-data/data/hadcrut5](https://www.metoffice.gov.uk/research/climate/maps-and-data/data/hadcrut5)  
+    ✅ **Features**:
+    - Offers a historical record of global surface temperature anomalies.
+    - Combines land and ocean temperature measurements.
+    - Useful for trend analysis and long-term climate change studies.
+
+13. **CRU TS (Climatic Research Unit Time Series)**  
+    🔗 [https://crudata.uea.ac.uk/cru/data/hrg/](https://crudata.uea.ac.uk/cru/data/hrg/)  
+    ✅ **Features**:
+    - High-resolution gridded dataset of historical climate data.
+    - Includes temperature, precipitation, and cloud cover.
+    - Widely used for ecological and hydrological studies.
+
+14. **JRA-55 Reanalysis**  
+    🔗 [https://jra.kishou.go.jp/JRA-55/index_en.html](https://jra.kishou.go.jp/JRA-55/index_en.html)  
+    ✅ **Features**:
+    - Japanese 55-year reanalysis dataset for global climate.
+    - Includes upper-air, surface, and oceanic parameters.
+    - Ideal for atmospheric research and climate diagnostics.
+
+15. **TropICSAT (Tropical Rainfall Monitoring)**  
+    🔗 [http://www.tropicsat.org/](http://www.tropicsat.org/)  
+    ✅ **Features**:
+    - Provides high-resolution satellite rainfall data for tropical regions.
+    - Combines multiple sensors to improve accuracy.
+    - Useful for flood risk and agricultural planning in tropical zones.
      
-3. **Google Earth Engine Dataset Catalog - Climate**  
+16. **Google Earth Engine Dataset Catalog - Climate**  
    🔗 [https://developers.google.com/earth-engine/datasets/catalog](https://developers.google.com/earth-engine/datasets/catalog)  
    ✅ **Features**:
    - Offers climate datasets such as:
