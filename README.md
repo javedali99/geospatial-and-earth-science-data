@@ -136,11 +136,11 @@ Hydrology and water resource datasets offer insights into river basins, water bo
    - Extensive network of monitoring sites across the U.S.
    - Includes tools for data visualization and analysis.
 
-5. **USACE Hydrologic Engineering Center (HEC) Data**  
-   🔗 [https://www.hec.usace.army.mil/software/](https://www.hec.usace.army.mil/software/)  
+5. **Global Surface Water Explorer (JRC)**  
+   🔗 [https://global-surface-water.appspot.com/](https://global-surface-water.appspot.com/)  
    ✅ **Features**:
-   - Provides datasets and tools for hydrologic and hydraulic modeling, such as HEC-RAS, HEC-HMS, and HEC-ResSim.
-   - Supports water management, flood risk, and reservoir operations.
+   - Tracks surface water extent and changes using Landsat imagery.
+   - Provides data on surface water occurrence, recurrence, and seasonality.
 
 6. **NOAA Advanced Hydrologic Prediction Service (AHPS)**  
    🔗 [https://water.weather.gov/ahps/](https://water.weather.gov/ahps/)  
@@ -154,12 +154,12 @@ Hydrology and water resource datasets offer insights into river basins, water bo
    - Interactive tool for streamflow statistics, drainage area delineation, and watershed characteristics.
    - Includes data for hydrological and flood frequency analysis.
   
-8. **USACE Wave Information Studies (WIS) Data**  
-   🔗 [https://wisportal.erdc.dren.mil/](https://wisportal.erdc.dren.mil/)  
+8. **Global Streamflow Indices and Metadata Archive (GSIM)**  
+   🔗 [https://gsim.stanford.edu/](https://gsim.stanford.edu/)  
    ✅ **Features**:
-   - Provides long-term wave climatology data for U.S. coastal waters.
-   - Includes parameters such as wave height, direction, and period.
-   - Useful for coastal engineering, hydrodynamics, and wave energy studies.
+   - Global archive of streamflow records.
+   - Includes metadata and indices for river discharge.
+   - Supports hydrological trend and variability studies.
 
 9. **Global Flood Awareness System (GloFAS)**  
    🔗 [https://www.globalfloods.eu/](https://www.globalfloods.eu/)  
@@ -204,6 +204,74 @@ Hydrology and water resource datasets offer insights into river basins, water bo
     ✅ **Features**:
     - Provides datasets on inland water bodies, rivers, and reservoirs.
     - Useful for hydrology and water resource studies.
+   
+16. **Global Lakes and Wetlands Database (GLWD)**  
+   🔗 [https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database](https://www.worldwildlife.org/pages/global-lakes-and-wetlands-database)  
+   ✅ **Features**:
+   - Comprehensive data on global lakes, reservoirs, and wetlands.
+   - Supports hydrology, ecology, and biodiversity research.
+
+17. **Global Precipitation Climatology Project (GPCP)**  
+    🔗 [https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00832](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc:C00832)  
+    ✅ **Features**:
+    - Provides monthly precipitation data globally from satellite and ground-based measurements.
+    - Long-term dataset (1979–present).
+    - Ideal for climate and hydrological applications.
+
+18. **Global Rainfall Data (TRMM and GPM)**  
+    🔗 [https://gpm.nasa.gov/data-access/downloads/trmm](https://gpm.nasa.gov/data-access/downloads/trmm)  
+    ✅ **Features**:
+    - High-resolution rainfall data from NASA missions.
+    - Real-time precipitation data for flood forecasting and hydrological modeling.
+
+19. **Global Water Resources Database (AQUASTAT)**  
+    🔗 [https://www.fao.org/aquastat/en/](https://www.fao.org/aquastat/en/)  
+    ✅ **Features**:
+    - FAO’s global database on water resources and agricultural water use.
+    - Covers river basins, irrigation, and water withdrawal statistics.
+
+20. **World Bank River Basin Data**  
+    🔗 [https://datacatalog.worldbank.org/](https://datacatalog.worldbank.org/)  
+    ✅ **Features**:
+    - Provides geospatial data for global river basins.
+    - Includes hydrology, water resources, and socioeconomic indicators.
+
+21. **Surface Water and Ocean Topography (SWOT)**  
+    🔗 [https://swot.jpl.nasa.gov/](https://swot.jpl.nasa.gov/)  
+    ✅ **Features**:
+    - Satellite mission data to measure surface water storage and dynamics.
+    - High-resolution data for rivers, lakes, and reservoirs.
+
+22. **Water Resources Global Information System (AQUARIUS)**  
+    🔗 [https://waterdata.com/](https://waterdata.com/)  
+    ✅ **Features**:
+    - Manages and analyzes water data for hydrology and water quality applications.
+    - Supports real-time monitoring and reporting.
+
+23. **SWAT (Soil and Water Assessment Tool)**  
+    🔗 [https://www.swat.tamu.edu/](https://www.swat.tamu.edu/)  
+    ✅ **Features**:
+    - Hydrological model for river basin simulations.
+    - Integrates climate, land use, and hydrological data for water resource assessments.
+
+24. **World Water Quality Assessment (UNEP)**  
+    🔗 [https://www.unep.org/interactives/wwqa/](https://www.unep.org/interactives/wwqa/)  
+    ✅ **Features**:
+    - Provides a comprehensive overview of global freshwater quality.
+    - Includes analyses of pollutants, ecosystem health, and human health impacts.
+    - Offers interactive tools to explore specific water quality issues.
+
+25. **LakeNet Global Lakes Database**  
+    🔗 [https://www.worldlakes.org/](https://www.worldlakes.org/)  
+    ✅ **Features**:
+    - Provides information on global lakes and their ecological status.
+    - Focuses on conservation and sustainable water management.
+
+26. **Transboundary Freshwater Dispute Database (TFDD)**  
+    🔗 [https://transboundarywaters.science.oregonstate.edu/](https://transboundarywaters.science.oregonstate.edu/)  
+    ✅ **Features**:
+    - Data on shared river basins and international water treaties.
+    - Supports research on water conflict and cooperation.
 
 ---
 
