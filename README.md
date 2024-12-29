@@ -5,17 +5,17 @@ Welcome to the **Geospatial Data Repository**! This repository provides a compre
 ---
 
 ## 📚 Table of Contents
-1. [Digital Elevation Models (DEMs)](#digital-elevation-models-dems)
-2. [Administrative Boundaries](#administrative-boundaries)
-3. [Hydrology and Water Resources](#hydrology-and-water-resources)
-4. [Climate and Meteorological Data](#climate-and-meteorological-data)
-5. [Land Use and Land Cover](#land-use-and-land-cover)
-6. [Satellite Imagery](#satellite-imagery)
-7. [Infrastructure and Urban Data](#infrastructure-and-urban-data)
-8. [Natural Hazard Data](#natural-hazard-data)
-9. [Contribution Guidelines](#contribution-guidelines)
-10. [Acknowledgments](#acknowledgments)
-11. [Maintainer](#maintainer)
+1. [Digital Elevation Models (DEMs)](#🌍-digital-elevation-models-dems)
+2. [Administrative Boundaries](#🗺️-administrative-boundaries)
+3. [Hydrology and Water Resources](#💧-hydrology-and-water-resources)
+4. [Climate and Meteorological Data](#🌦️-climate-and-meteorological-data)
+5. [Land Use and Land Cover](#🌳-land-use-and-land-cover)
+6. [Satellite Imagery](#🛰️-satellite-imagery)
+7. [Infrastructure and Urban Data](#🏙️-infrastructure-and-urban-data)
+8. [Natural Hazard Data](#🌋-natural-hazard-data)
+9. [Contribution Guidelines](#🤝-contribution-guidelines)
+10. [Acknowledgments](#🌟-acknowledgments)
+11. [Maintainer](#🛠️-maintainer)
 
 ---
 
@@ -215,4 +215,8 @@ To contribute:
 1. Fork the repository.
 2. Add your changes in a new branch.
 3. Submit a pull request with a description of your updates.
+
+
+
+
 
