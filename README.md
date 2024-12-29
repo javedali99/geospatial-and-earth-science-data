@@ -560,12 +560,121 @@ Natural hazard datasets include information on earthquakes, floods, hurricanes, 
    🔗 [https://msc.fema.gov/portal/home](https://msc.fema.gov/portal/home)  
    ✅ **Features**:
    - U.S.-focused floodplain and flood risk maps.
-   - Essential for disaster risk management.
+   - Essential for disaster risk management and urban planning.
 
 2. **Global Disaster Alert and Coordination System (GDACS)**  
    🔗 [https://www.gdacs.org/](https://www.gdacs.org/)  
    ✅ **Features**:
    - Real-time alerts for disasters like earthquakes, tsunamis, and cyclones.
+   - Provides geospatial hazard maps for global events.
+
+3. **European Flood Awareness System (EFAS)**  
+   🔗 [https://www.efas.eu/](https://www.efas.eu/)  
+   ✅ **Features**:
+   - Provides flood forecasts and risk analysis for Europe.
+   - Integrates hydrological and meteorological predictions.
+
+4. **NASA Earth Science Disasters Program**  
+   🔗 [https://disasters.nasa.gov/](https://disasters.nasa.gov/)  
+   ✅ **Features**:
+   - Provides geospatial data for natural disasters like hurricanes, wildfires, and landslides.
+   - Offers satellite imagery and hazard-specific datasets.
+
+5. **Global Earthquake Model (GEM)**  
+   🔗 [https://www.globalquakemodel.org/](https://www.globalquakemodel.org/)  
+   ✅ **Features**:
+   - Provides data on seismic hazard, exposure, and risk.
+   - Includes models and tools for earthquake risk assessment.
+
+6. **USGS Earthquake Hazards Program**  
+   🔗 [https://earthquake.usgs.gov/](https://earthquake.usgs.gov/)  
+   ✅ **Features**:
+   - Real-time earthquake monitoring and historical data.
+   - Includes information on seismic hazard maps and fault lines.
+
+7. **NOAA National Hurricane Center (NHC)**  
+   🔗 [https://www.nhc.noaa.gov/](https://www.nhc.noaa.gov/)  
+   ✅ **Features**:
+   - Provides hurricane forecasts, advisories, and real-time tracking.
+   - Includes historical data for Atlantic and Eastern Pacific hurricanes.
+
+8. **Global Active Fire Database (GFED)**  
+   🔗 [https://www.globalfiredata.org/](https://www.globalfiredata.org/)  
+   ✅ **Features**:
+   - Tracks global fire emissions and burned areas.
+   - Useful for wildfire risk assessment and climate studies.
+
+9. **Global Landslide Hazard Map (NASA)**  
+   🔗 [https://maps.nccs.nasa.gov/landslides/](https://maps.nccs.nasa.gov/landslides/)  
+   ✅ **Features**:
+   - Provides a global map of landslide susceptibility.
+   - Integrates precipitation and terrain data to assess landslide risk.
+
+10. **Pacific Disaster Center (PDC Global)**  
+    🔗 [https://www.pdc.org/](https://www.pdc.org/)  
+    ✅ **Features**:
+    - Real-time disaster alerts for cyclones, earthquakes, and tsunamis.
+    - Provides hazard risk maps and decision support tools.
+
+11. **OpenQuake**  
+    🔗 [https://platform.openquake.org/](https://platform.openquake.org/)  
+    ✅ **Features**:
+    - Open-source platform for seismic hazard and risk assessment.
+    - Offers tools for modeling earthquake impacts globally.
+
+12. **Tsunami Event Database (NOAA)**  
+    🔗 [https://www.ngdc.noaa.gov/hazard/tsu_db.shtml](https://www.ngdc.noaa.gov/hazard/tsu_db.shtml)  
+    ✅ **Features**:
+    - Tracks historical tsunami events globally.
+    - Provides data on event characteristics and impacts.
+
+13. **Copernicus Emergency Management Service (CEMS)**  
+    🔗 [https://emergency.copernicus.eu/](https://emergency.copernicus.eu/)  
+    ✅ **Features**:
+    - Provides maps and reports for rapid response to disasters.
+    - Includes data on floods, wildfires, and other natural hazards.
+
+14. **Global Volcanism Program (Smithsonian)**  
+    🔗 [https://volcano.si.edu/](https://volcano.si.edu/)  
+    ✅ **Features**:
+    - Database of volcanic eruptions and activity worldwide.
+    - Provides geospatial data and hazard assessments for active volcanoes.
+
+15. **Hazard Mapping System (HMS) Fire and Smoke Data**  
+    🔗 [https://www.ospo.noaa.gov/Products/land/hms.html](https://www.ospo.noaa.gov/Products/land/hms.html)  
+    ✅ **Features**:
+    - Tracks fire and smoke events in real-time.
+    - Provides satellite-based data on wildfire locations and emissions.
+
+16. **World Risk Index**  
+    🔗 [https://weltrisikobericht.de/](https://weltrisikobericht.de/)  
+    ✅ **Features**:
+    - Assesses disaster risk at the country level.
+    - Combines exposure, vulnerability, and coping capacity metrics.
+
+17. **Global Multi-Hazard Exposure Database (GMED)**  
+    🔗 [https://www.preventionweb.net/](https://www.preventionweb.net/)  
+    ✅ **Features**:
+    - Combines multiple hazards such as earthquakes, cyclones, and floods.
+    - Includes population and infrastructure exposure data.
+
+18. **Drought Severity Index (Global Drought Information System)**  
+    🔗 [https://www.drought.gov/](https://www.drought.gov/)  
+    ✅ **Features**:
+    - Tracks drought conditions globally using satellite and ground-based data.
+    - Provides historical and real-time drought severity assessments.
+
+19. **CATDAT Natural Disaster Database**  
+    🔗 [https://www.emdat.be/](https://www.emdat.be/)  
+    ✅ **Features**:
+    - Comprehensive database of natural disaster impacts globally.
+    - Includes data on fatalities, economic losses, and affected areas.
+
+20. **International Disaster Database (EM-DAT)**  
+    🔗 [https://www.emdat.be/](https://www.emdat.be/)  
+    ✅ **Features**:
+    - Tracks global disaster events and impacts since 1900.
+    - Includes geospatial data for risk assessment and mitigation.
    - Provides geospatial hazard maps.
 
 ---
