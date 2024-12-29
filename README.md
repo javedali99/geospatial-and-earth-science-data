@@ -510,7 +510,7 @@ Oceanographic datasets offer insights into the physical, chemical, and biologica
 ## 🤝 Contribution Guidelines
 
 Contributions to this repository are welcome! You can:
-- Add new links and descriptions for relevant geospatial data sources.
+- Add new datasets and descriptions following a similar format.
 - Report or fix broken links.
 - Enhance documentation and examples.
 
