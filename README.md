@@ -428,6 +428,14 @@ Below is a list of widely used datasets, offering global and regional climate in
    - Includes code to derive meteorological forcing data and catchment attributes from cloud-based data sources, enabling easy extension to new catchments.
    - Supports hydrology, meteorology, and climate research projects.
 
+20. **NOAA Physical Sciences Laboratory (PSL)**  
+   🔗 [https://psl.noaa.gov/data/index.html](https://psl.noaa.gov/data/index.html)  
+   ✅ **Features**:
+   - Comprehensive repository of global atmospheric and oceanic datasets.
+   - Includes variables such as temperature, precipitation, sea level pressure, and wind.
+   - Offers historical and real-time data for climate analysis and forecasting.
+   - Widely used for climate research, atmospheric modeling, and hydrological studies.
+
 ---
 
 ## 🌳 Land Use and Land Cover
