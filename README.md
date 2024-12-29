@@ -405,24 +405,101 @@ Land use and land cover datasets depict the distribution of natural vegetation, 
 1. **CORINE Land Cover (Europe)**  
    🔗 [https://land.copernicus.eu/pan-european/corine-land-cover](https://land.copernicus.eu/pan-european/corine-land-cover)  
    ✅ **Features**:
-   - European land use and land cover dataset.
+   - High-resolution LULC data for Europe.
    - Provides detailed classifications for urban, agricultural, and forested areas.
+   - Updated regularly to track land cover changes.
 
 2. **MODIS Land Cover**  
    🔗 [https://modis.gsfc.nasa.gov/data/dataprod/mod12.php](https://modis.gsfc.nasa.gov/data/dataprod/mod12.php)  
    ✅ **Features**:
-   - Global land cover classifications.
-   - Updated annually.
-   - Suitable for large-scale studies.
-     
-3. **Google Earth Engine Dataset Catalog - Land Cover**  
+   - Global land cover classifications with annual updates.
+   - Includes multiple classification schemes such as IGBP and UMD.
+   - Suitable for global-scale studies.
+
+3. **ESA WorldCover**  
+   🔗 [https://esa-worldcover.org/](https://esa-worldcover.org/)  
+   ✅ **Features**:
+   - High-resolution global land cover maps (10 meters).
+   - Covers natural and human-modified landscapes.
+   - Designed for environmental monitoring and policy-making.
+
+4. **Global Land Cover by National Mapping Organizations (GLCNMO)**  
+   🔗 [https://www.iscgm.org/](https://www.iscgm.org/)  
+   ✅ **Features**:
+   - Provides standardized global land cover datasets.
+   - Developed collaboratively by national mapping organizations.
+   - Useful for global land cover comparisons and studies.
+
+5. **Global Urban Footprint (GUF)**  
+   🔗 [https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-9628/16557_read-40454/](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-9628/16557_read-40454/)  
+   ✅ **Features**:
+   - High-resolution data on urban areas worldwide.
+   - Developed by the German Aerospace Center (DLR).
+   - Useful for urbanization studies and planning.
+
+6. **Copernicus Global Land Cover**  
+   🔗 [https://land.copernicus.eu/global/products/lc](https://land.copernicus.eu/global/products/lc)  
+   ✅ **Features**:
+   - Detailed global land cover data at 100-meter resolution.
+   - Includes 23 classes, such as forests, croplands, and wetlands.
+   - Supports ecosystem monitoring and climate modeling.
+
+7. **Google Earth Engine Dataset Catalog - Land Cover**  
    🔗 [https://developers.google.com/earth-engine/datasets/catalog](https://developers.google.com/earth-engine/datasets/catalog)  
    ✅ **Features**:
-   - Provides extensive land cover datasets, including:
-     - MODIS Land Cover Type product.
-     - ESA WorldCover 2020.
-   - Facilitates research on vegetation, urbanization, and land changes.
+   - Extensive collection of LULC datasets.
+   - Includes MODIS Land Cover Type, ESA WorldCover, and custom regional datasets.
    - Accessible with Google Earth Engine tools.
+
+8. **GLAD Global Land Cover**  
+   🔗 [https://glad.umd.edu/dataset/global-land-cover](https://glad.umd.edu/dataset/global-land-cover)  
+   ✅ **Features**:
+   - Annual global land cover data at 30-meter resolution.
+   - Focuses on agriculture, urban, and natural landscapes.
+   - Developed by the University of Maryland's Global Land Analysis and Discovery (GLAD) Lab.
+
+9. **Global Land Cover Facility (GLCF)**  
+    🔗 [https://glcf.umd.edu/](https://glcf.umd.edu/)  
+    ✅ **Features**:
+    - Offers a variety of LULC datasets, including Landsat-based products.
+    - Useful for historical and time-series land cover studies.
+    - Focused on sustainable land use and biodiversity.
+
+10. **USGS National Land Cover Database (NLCD)**  
+    🔗 [https://www.usgs.gov/centers/eros/science/national-land-cover-database](https://www.usgs.gov/centers/eros/science/national-land-cover-database)  
+    ✅ **Features**:
+    - U.S.-focused land cover datasets.
+    - Provides detailed classifications for urban, agricultural, and natural landscapes.
+    - Supports hydrological and ecological modeling.
+
+11. **Human Footprint Dataset (WCS)**  
+    🔗 [https://datadryad.org/stash/dataset/doi:10.5061/dryad.7k1nc](https://datadryad.org/stash/dataset/doi:10.5061/dryad.7k1nc)  
+    ✅ **Features**:
+    - Measures human impact on natural landscapes globally.
+    - Combines infrastructure, population, and land use data.
+    - Ideal for conservation and sustainable development planning.
+
+12. **OpenLandMap**  
+    🔗 [https://openlandmap.org/](https://openlandmap.org/)  
+    ✅ **Features**:
+    - Provides spatial data on land cover, soil, vegetation, and climate.
+    - High-resolution global coverage.
+    - Supports machine learning and geospatial analysis.
+
+13. **FAO Global Land Cover-SHARE Database**  
+    🔗 [https://www.fao.org/geonetwork/srv/en/metadata.show?id=49439](https://www.fao.org/geonetwork/srv/en/metadata.show?id=49439)  
+    ✅ **Features**:
+    - Combines global land cover datasets for agriculture and forestry applications.
+    - Provides harmonized land cover information.
+    - Widely used for food security and resource management.
+
+14. **WRI Global Forest Watch (GFW)**  
+    🔗 [https://www.globalforestwatch.org/](https://www.globalforestwatch.org/)  
+    ✅ **Features**:
+    - Provides near-real-time forest monitoring data.
+    - Tracks deforestation, land degradation, and conservation efforts.
+    - User-friendly tools for policymakers and researchers.
+
      
 ---
 
