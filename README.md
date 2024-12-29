@@ -545,13 +545,100 @@ Infrastructure and urban datasets provide detailed information on roads, buildin
    ✅ **Features**:
    - Free and editable map data.
    - Includes roads, buildings, and utilities.
-   - Widely used in urban analysis.
+   - Widely used in urban analysis and planning.
 
 2. **Global Human Settlement Layer (GHSL)**  
    🔗 [https://ghsl.jrc.ec.europa.eu/](https://ghsl.jrc.ec.europa.eu/)  
    ✅ **Features**:
-   - Urban density and settlement data.
+   - Provides data on urban density, settlement patterns, and infrastructure.
    - Global coverage for research and urban development projects.
+
+3. **Gridded Population of the World (GPW)**  
+   🔗 [https://sedac.ciesin.columbia.edu/data/collection/gpw-v4](https://sedac.ciesin.columbia.edu/data/collection/gpw-v4)  
+   ✅ **Features**:
+   - Provides spatially explicit population distribution data.
+   - Useful for urban planning, disaster risk assessment, and resource allocation.
+
+4. **High-Resolution Settlement Layer (HRSL)**  
+   🔗 [https://www.ciesin.columbia.edu/data/hrsl/](https://www.ciesin.columbia.edu/data/hrsl/)  
+   ✅ **Features**:
+   - High-resolution maps of human settlements, created using satellite imagery.
+   - Supports humanitarian and development projects.
+
+5. **Global Urban Footprint (GUF)**  
+   🔗 [https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-9628/16557_read-40454/](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-9628/16557_read-40454/)  
+   ✅ **Features**:
+   - High-resolution data on urban areas worldwide.
+   - Developed by the German Aerospace Center (DLR).
+   - Useful for urbanization studies and planning.
+
+6. **Atlas of Urban Expansion**  
+   🔗 [https://www.atlasofurbanexpansion.org/](https://www.atlasofurbanexpansion.org/)  
+   ✅ **Features**:
+   - Provides data on the spatial expansion of cities worldwide.
+   - Includes detailed maps and statistics on urban growth.
+   - A resource for understanding urbanization trends over time.
+
+7. **Global Road Inventory Project (GRIP)**  
+   🔗 [https://dataverse.harvard.edu/dataverse/GRIP](https://dataverse.harvard.edu/dataverse/GRIP)  
+   ✅ **Features**:
+   - Provides a global dataset of road networks.
+   - Useful for transportation planning, infrastructure analysis, and logistics.
+
+8. **Urban Social Vulnerability Index (USVI)**  
+   🔗 [https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2TL2GS](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2TL2GS)  
+   ✅ **Features**:
+   - Measures social vulnerability in urban settings.
+   - Combines data on demographics, housing, and economic conditions.
+   - Useful for urban resilience and disaster risk reduction planning.
+
+9. **World Settlement Footprint (WSF)**  
+   🔗 [https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760/](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760/)  
+   ✅ **Features**:
+   - High-resolution global dataset of settlement patterns.
+   - Combines satellite imagery and geospatial analysis to map urban areas.
+   - Ideal for urban studies and monitoring human settlement growth.
+
+10. **Global Infrastructure Mapping and Analysis Project (GIMAP)**  
+    🔗 [https://gimap.earth/](https://gimap.earth/)  
+    ✅ **Features**:
+    - Open data on global infrastructure, including transportation, energy, and telecommunications networks.
+    - Useful for understanding critical infrastructure and resilience planning.
+
+11. **Google Earth Engine Dataset Catalog - Urban Data**  
+    🔗 [https://developers.google.com/earth-engine/datasets/catalog](https://developers.google.com/earth-engine/datasets/catalog)  
+    ✅ **Features**:
+    - Includes datasets such as nighttime lights, urban extent, and infrastructure maps.
+    - Provides tools for spatial analysis and urban research.
+    - Accessible with Google Earth Engine tools.
+
+12. **WorldPop**  
+    🔗 [https://www.worldpop.org/](https://www.worldpop.org/)  
+    ✅ **Features**:
+    - High-resolution population density datasets.
+    - Combines geospatial and demographic data.
+    - Useful for urban planning, health studies, and disaster response.
+
+13. **Humanitarian OpenStreetMap Team (HOT)**  
+    🔗 [https://www.hotosm.org/](https://www.hotosm.org/)  
+    ✅ **Features**:
+    - Provides geospatial data for humanitarian and development purposes.
+    - Focused on mapping underserved or high-risk urban areas.
+    - Widely used in disaster response and risk reduction.
+
+14. **Open Infrastructure Map**  
+    🔗 [https://openinframap.org/](https://openinframap.org/)  
+    ✅ **Features**:
+    - Global data on infrastructure, including roads, utilities, and energy networks.
+    - Derived from OpenStreetMap and other public datasets.
+    - Useful for infrastructure analysis and planning.
+
+15. **UN Habitat Global Urban Indicators Database**  
+    🔗 [https://unhabitat.org/](https://unhabitat.org/)  
+    ✅ **Features**:
+    - Comprehensive indicators for urban infrastructure, development, and sustainability.
+    - Covers key metrics such as housing, transportation, and urban governance.
+    - Essential for monitoring global urbanization trends.
 
 ---
 
