@@ -22,7 +22,9 @@ Welcome to the **Global Earth Science Datasets Repository**! This repository off
 7. [Infrastructure and Urban Data](#🏙️-infrastructure-and-urban-data)
 8. [Natural Hazard Data](#🌋-natural-hazard-data)
 9. [Oceanographic Data](#🌊-oceanographic-data)
-10. [Contribution Guidelines](#🤝-contribution-guidelines)
+10. [Multi-disciplinary Data Repositories](#🌐-multi-disciplinary-data-repositories)
+11. [Contribution Guidelines](#🤝-contribution-guidelines)
+
 
 ---
 
@@ -761,17 +763,44 @@ Oceanographic datasets offer insights into the physical, chemical, and biologica
 
 ---
 
-## 🤝 Contribution Guidelines
+## 🌐 Multi-disciplinary Data Repositories
 
-Contributions to this repository are welcome! You can:
-- Add new datasets and descriptions following a similar format.
-- Report or fix broken links.
-- Enhance documentation and examples.
+1. **GEE Community Catalog**  
+    🔗 [https://gee-community-catalog.org/](https://gee-community-catalog.org/)  
+    ✅ **Features**:
+    - A versatile repository offering datasets across multiple disciplines, including satellite imagery, land use, climate, hydrology, and natural hazards.
+    - Fully compatible with Google Earth Engine (GEE), enabling seamless integration for analysis.
+    - Community-driven platform with regular updates and contributions from researchers worldwide.
+    - Ideal for diverse applications such as environmental monitoring, disaster management, and urban planning.
 
-To contribute:
-1. Fork the repository.
-2. Add your changes in a new branch.
-3. Submit a pull request with a description of your updates.
+---
+
+## 🤝 **Contribution Guidelines**
+
+Contributions to this repository are highly encouraged and greatly appreciated! Whether you’re a researcher, developer, or earth science data enthusiast, your contributions can help make this resource more valuable for the community.
+
+### 💡 Ways to Contribute:
+- **Add New Datasets**: Submit links to relevant datasets with a detailed description, including features, access details, and potential applications.
+- **Fix Issues**: Report or correct broken links, typos, or formatting inconsistencies.
+- **Suggest Improvements**: Propose new sections, dataset categories, or structural changes to better serve the community.
+
+### 🛠️ Steps to Contribute:
+1. **Fork the Repository**: Create your own copy of the repository by clicking the "Fork" button.
+2. **Create a Branch**: Work on your changes in a new branch with a descriptive name (e.g., `add-new-dataset`, `fix-links`).
+3. **Make Your Changes**: Add or modify content while maintaining consistent formatting with the repository.
+4. **Test Your Updates**: Ensure that links are valid, formatting is consistent, and descriptions are clear.
+5. **Submit a Pull Request**:
+   - Provide a clear title and description of your changes.
+   - Reference related issues, if applicable.
+   - Follow the repository’s contribution format and guidelines.
+
+### 🎯 Contribution Tips:
+- Ensure datasets are from credible and reliable sources.
+- Follow the existing format for dataset entries to maintain consistency.
+- Include as much relevant detail as possible about each dataset, such as its scope, features, and applications.
+
+By contributing, you help build a more comprehensive and accessible resource for Earth sciences, fostering collaboration and innovation in the community. Thank you for your support!
+
 
 
 
