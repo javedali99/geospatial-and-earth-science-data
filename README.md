@@ -13,7 +13,7 @@ Welcome to the **Geospatial Data Repository**! This repository provides a compre
 ---
 
 ## 📚 Table of Contents
-1. [Digital Elevation Models (DEMs)](#🌍-digital-elevation-models-(dems))
+1. [Digital Elevation Models (DEMs)](#digital-elevation-models-(dems))
 2. [Administrative Boundaries](#🗺️-administrative-boundaries)
 3. [Hydrology and Water Resources](#💧-hydrology-and-water-resources)
 4. [Climate and Meteorological Data](#🌦️-climate-and-meteorological-data)
