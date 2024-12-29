@@ -14,8 +14,6 @@ Welcome to the **Geospatial Data Repository**! This repository provides a compre
 7. [Infrastructure and Urban Data](#🏙️-infrastructure-and-urban-data)
 8. [Natural Hazard Data](#🌋-natural-hazard-data)
 9. [Contribution Guidelines](#🤝-contribution-guidelines)
-10. [Acknowledgments](#🌟-acknowledgments)
-11. [Maintainer](#🛠️-maintainer)
 
 ---
 
