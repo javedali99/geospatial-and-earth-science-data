@@ -8,7 +8,7 @@
 
 
 
-Welcome to the **Geospatial Data for Earth Sciences Repository**! This repository provides a comprehensive collection of links to trusted sources for geospatial datasets, categorized by type and application. Each entry includes details about the source, features, and any prerequisites for access. Whether you are working on hydrology, urban planning, or climate studies, this repository aims to guide you to the right data for your projects.
+Welcome to the **Global Earth Science Datasets Repository**! This repository offers a curated collection of links to reliable and widely-used datasets across multiple Earth science disciplines. Organized by category and application, it includes datasets for hydrology, climate studies, natural hazards, land use, oceanography, and more. Each entry provides essential details about the dataset, its features, and access requirements. Whether you're a researcher, practitioner, or enthusiast, this repository is designed to help you discover and utilize datasets for environmental analysis, decision-making, and scientific exploration.
 
 ---
 
