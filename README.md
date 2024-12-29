@@ -397,7 +397,20 @@ Below is a list of widely used datasets, offering global and regional climate in
      - CHIRPS rainfall estimates.
    - Covers global historical and real-time datasets.
    - Requires programming knowledge to access via Google Earth Engine.
-     
+
+17. **NOAA Environmental Data Access**  
+    🔗 [https://data.noaa.gov/](https://data.noaa.gov/)  
+    ✅ **Features**:
+    - Centralized access to NOAA’s climate, oceanographic, and atmospheric datasets.
+    - Includes real-time and historical data for weather, fisheries, and ecosystems.
+    - Supports interdisciplinary Earth system science research.
+
+18. **DataONE Earth and Environmental Data**  
+    🔗 [https://www.dataone.org/](https://www.dataone.org/)  
+    ✅ **Features**:
+    - Federated repository of Earth and environmental data.
+    - Includes datasets on ecology, hydrology, and climate.
+    - Provides tools for data discovery, integration, and sharing.
 ---
 
 ## 🌳 Land Use and Land Cover
@@ -543,7 +556,7 @@ Satellite imagery datasets provide high-resolution, multi-spectral data captured
       
 ---
 
-## 🏙️ Infrastructure and Urban Data
+## 🏙️ Infrastructure, Population and Urban Data
 
 Infrastructure and urban datasets provide detailed information on roads, buildings, utilities, and urban development patterns. These datasets are critical for urban planning, infrastructure development, and smart city initiatives.
 
@@ -647,6 +660,12 @@ Infrastructure and urban datasets provide detailed information on roads, buildin
     - Covers key metrics such as housing, transportation, and urban governance.
     - Essential for monitoring global urbanization trends.
 
+16. **SEDAC (Socioeconomic Data and Applications Center)**  
+   🔗 [https://sedac.ciesin.columbia.edu/](https://sedac.ciesin.columbia.edu/)  
+   ✅ **Features**:
+   - Integrates geospatial data with socioeconomic information, such as population density, urbanization, and environmental sustainability.
+   - Focused on the intersection of human and environmental systems.
+   - Provides downloadable datasets and visualization tools.
 ---
 
 ## 🌋 Natural Hazard Data
