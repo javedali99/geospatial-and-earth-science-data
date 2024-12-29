@@ -775,7 +775,7 @@ Oceanographic datasets offer insights into the physical, chemical, and biologica
 
 ---
 
-## 🤝 **Contribution Guidelines**
+## 🤝 Contribution Guidelines
 
 Contributions to this repository are highly encouraged and greatly appreciated! Whether you’re a researcher, developer, or earth science data enthusiast, your contributions can help make this resource more valuable for the community.
 
