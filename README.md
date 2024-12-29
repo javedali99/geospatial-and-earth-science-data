@@ -20,10 +20,11 @@ Welcome to the **Earth Science Datasets Repository**! This repository offers a c
 4. [Climate and Meteorological Data](#🌦️-climate-and-meteorological-data)
 5. [Land Use and Land Cover](#🌳-land-use-and-land-cover)
 6. [Satellite Imagery](#🛰️-satellite-imagery)
-7. [Infrastructure and Urban Data](#🏙️-infrastructure-and-urban-data)
+7. [Infrastructure, Population and Urban Data](#🏙️-infrastructure-population-and-urban-data)
 8. [Natural Hazard Data](#🌋-natural-hazard-data)
 9. [Oceanographic Data](#🌊-oceanographic-data)
-10. [Contribution Guidelines](#🤝-contribution-guidelines)
+10. [Ecology and Biodiversity](#🌱-ecology-and-biodiversity)
+11. [Contribution Guidelines](#🤝-contribution-guidelines)
 
 
 ---
@@ -875,6 +876,115 @@ Oceanographic datasets offer insights into the physical, chemical, and biologica
     - Includes physical, biogeochemical, and ecological parameters.
     - Supports studies of ocean-atmosphere interactions, carbon cycles, and climate variability.
 
+---
+
+## 🌱 Ecology and Biodiversity
+
+This section provides access to datasets that cover ecosystems, species distribution, biodiversity metrics, and conservation priorities. These datasets support research and decision-making in ecology, conservation biology, land management, and environmental policy.
+
+1. **Global Biodiversity Information Facility (GBIF)**  
+   🔗 [https://www.gbif.org/](https://www.gbif.org/)  
+   ✅ **Features**:
+   - The largest collection of biodiversity data, providing occurrence records of species worldwide.
+   - Covers plants, animals, fungi, and microorganisms.
+   - Free access for ecological and conservation research.
+
+2. **IUCN Red List of Threatened Species**  
+   🔗 [https://www.iucnredlist.org/](https://www.iucnredlist.org/)  
+   ✅ **Features**:
+   - Comprehensive assessments of species extinction risk.
+   - Includes geographic range, population trends, and threats for thousands of species.
+   - Essential for conservation planning and policy-making.
+
+3. **Biodiversity Indicators Partnership (BIP)**  
+   🔗 [https://www.bipindicators.net/](https://www.bipindicators.net/)  
+   ✅ **Features**:
+   - Tracks global biodiversity targets and indicators, including habitat loss and species status.
+   - Useful for evaluating progress on international conservation goals like the Aichi Biodiversity Targets.
+
+4. **PREDICTS (Projecting Responses of Ecological Diversity In Changing Terrestrial Systems)**  
+   🔗 [https://www.predicts.org.uk/](https://www.predicts.org.uk/)  
+   ✅ **Features**:
+   - Global database of biodiversity responses to human activities.
+   - Focused on land use, habitat change, and conservation strategies.
+   - Supports ecological modeling and global biodiversity assessments.
+
+5. **Global Forest Watch (GFW)**  
+   🔗 [https://www.globalforestwatch.org/](https://www.globalforestwatch.org/)  
+   ✅ **Features**:
+   - Real-time monitoring of deforestation and forest degradation.
+   - Includes biodiversity-relevant data like habitat loss and protected areas.
+   - User-friendly tools for policymakers and researchers.
+
+6. **NatureServe Explorer**  
+   🔗 [https://explorer.natureserve.org/](https://explorer.natureserve.org/)  
+   ✅ **Features**:
+   - Database of species and ecosystem conservation statuses in North America.
+   - Focuses on rare and endangered species and habitats.
+   - Useful for regional biodiversity studies.
+
+7. **Map of Life (MOL)**  
+   🔗 [https://mol.org/](https://mol.org/)  
+   ✅ **Features**:
+   - Global species distribution maps and biodiversity indicators.
+   - Integrates data from GBIF, IUCN, and other sources.
+   - Ideal for biodiversity assessments and habitat management.
+
+8. **eBird**  
+   🔗 [https://ebird.org/](https://ebird.org/)  
+   ✅ **Features**:
+   - Crowdsourced database of bird observations worldwide.
+   - Provides species distribution maps and migration trends.
+   - Widely used in avian ecology and citizen science.
+
+9. **Try Plant Trait Database**  
+   🔗 [https://www.try-db.org/](https://www.try-db.org/)  
+   ✅ **Features**:
+   - Comprehensive plant trait data for ecological and evolutionary research.
+   - Includes information on morphology, physiology, and ecology.
+   - Supports studies on ecosystem functioning and species interactions.
+
+10. **Living Planet Index (LPI)**  
+    🔗 [https://livingplanetindex.org/](https://livingplanetindex.org/)  
+    ✅ **Features**:
+    - Tracks population trends of vertebrate species globally.
+    - Provides insights into biodiversity health and conservation priorities.
+    - Useful for understanding long-term biodiversity trends.
+
+11. **Protected Planet (WDPA)**  
+    🔗 [https://www.protectedplanet.net/](https://www.protectedplanet.net/)  
+    ✅ **Features**:
+    - World Database on Protected Areas, including terrestrial and marine reserves.
+    - Tracks the coverage and effectiveness of protected areas.
+    - Essential for conservation planning and international biodiversity reporting.
+
+12. **Encyclopedia of Life (EOL)**  
+    🔗 [https://eol.org/](https://eol.org/)  
+    ✅ **Features**:
+    - Comprehensive database of species information.
+    - Covers taxonomy, distribution, ecology, and multimedia resources.
+    - Useful for biodiversity education and outreach.
+
+13. **Global Ecosystem Dynamics Investigation (GEDI)**  
+    🔗 [https://gedi.umd.edu/](https://gedi.umd.edu/)  
+    ✅ **Features**:
+    - High-resolution data on forest structure and biomass.
+    - Useful for studying habitat complexity and carbon storage.
+    - Supports ecological modeling and biodiversity conservation.
+
+14. **RAMSAR Wetlands Database**  
+    🔗 [https://rsis.ramsar.org/](https://rsis.ramsar.org/)  
+    ✅ **Features**:
+    - Information on globally significant wetlands and their biodiversity.
+    - Tracks wetland health and conservation status.
+    - Supports studies on ecosystem services and waterbirds.
+
+15. **Terrestrial Ecosystem Research Network (TERN)**  
+    🔗 [https://www.tern.org.au/](https://www.tern.org.au/)  
+    ✅ **Features**:
+    - Long-term ecosystem monitoring data from Australia.
+    - Covers vegetation, soil, and carbon flux data.
+    - Useful for ecological research and land management.
 
 
 ---
