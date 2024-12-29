@@ -683,6 +683,14 @@ Infrastructure and urban datasets provide detailed information on roads, buildin
    - Integrates geospatial data with socioeconomic information, such as population density, urbanization, and environmental sustainability.
    - Focused on the intersection of human and environmental systems.
    - Provides downloadable datasets and visualization tools.
+
+17. **European Building Characteristics Database (EUBUCCO)**  
+   🔗 [https://eubucco.com/](https://eubucco.com/)  
+   ✅ **Features**:
+   - Open database providing detailed characteristics for over 200 million individual buildings across Europe.
+   - Includes information on building stock, footprints, and other attributes.
+   - Ideal for urban planning, infrastructure studies, and sustainability research.
+
 ---
 
 ## 🌋 Natural Hazard Data
