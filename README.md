@@ -106,7 +106,15 @@ Administrative boundary datasets define geopolitical boundaries, including count
    - Seamless integration with mapping projects.
    - Includes cultural, physical, and raster layers.
 
----
+3. **Countries, States, and Cities Database**  
+   🔗 [https://github.com/dr5hn/countries-states-cities-database](https://github.com/dr5hn/countries-states-cities-database)  
+   ✅ **Features**:
+   - Open-source and easy-to-use database of countries, states, and cities.
+   - JSON, SQL, and CSV formats available for seamless integration.
+   - Provides administrative boundary data useful for applications in GIS, urban planning, and socio-economic analysis.
+
+--- 
+
 
 ## 💧 Hydrology and Water Resources
 
