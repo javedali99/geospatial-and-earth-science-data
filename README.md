@@ -121,6 +121,88 @@ Leverage these sources for water resource datasets:
    - Repository of global river discharge data.
    - Facilitates hydrological studies and water resource management.
 
+3. **NOAA National Water Model Data**  
+   🔗 [https://water.noaa.gov/about/nwm](https://water.noaa.gov/about/nwm)  
+   ✅ **Features**:
+   - Provides hydrologic modeling data and streamflow forecasts.
+   - Real-time and historical data available for watersheds in the United States.
+   - Supports research and decision-making in flood management.
+
+4. **USGS National Water Information System (NWIS)**  
+   🔗 [https://waterdata.usgs.gov/nwis](https://waterdata.usgs.gov/nwis)  
+   ✅ **Features**:
+   - Offers real-time, daily, and historical water data for surface water, groundwater, and water quality.
+   - Extensive network of monitoring sites across the U.S.
+   - Includes tools for data visualization and analysis.
+
+5. **USACE Hydrologic Engineering Center (HEC) Data**  
+   🔗 [https://www.hec.usace.army.mil/software/](https://www.hec.usace.army.mil/software/)  
+   ✅ **Features**:
+   - Provides datasets and tools for hydrologic and hydraulic modeling, such as HEC-RAS, HEC-HMS, and HEC-ResSim.
+   - Supports water management, flood risk, and reservoir operations.
+
+6. **NOAA Advanced Hydrologic Prediction Service (AHPS)**  
+   🔗 [https://water.weather.gov/ahps/](https://water.weather.gov/ahps/)  
+   ✅ **Features**:
+   - Real-time river forecasts, flood stage monitoring, and probability information.
+   - Interactive maps for water levels and streamflow conditions.
+
+7. **USGS StreamStats**  
+   🔗 [https://streamstats.usgs.gov/](https://streamstats.usgs.gov/)  
+   ✅ **Features**:
+   - Interactive tool for streamflow statistics, drainage area delineation, and watershed characteristics.
+   - Includes data for hydrological and flood frequency analysis.
+
+8. **Global Flood Awareness System (GloFAS)**  
+   🔗 [https://www.globalfloods.eu/](https://www.globalfloods.eu/)  
+   ✅ **Features**:
+   - Operated by the Copernicus Emergency Management Service.
+   - Provides global flood forecasts and risk maps.
+   - Combines hydrological models with meteorological forecasts.
+
+9. **NASA Global Precipitation Measurement (GPM) Mission**  
+   🔗 [https://gpm.nasa.gov/data-access/downloads/gpm](https://gpm.nasa.gov/data-access/downloads/gpm)  
+   ✅ **Features**:
+   - Offers high-resolution precipitation datasets.
+   - Useful for hydrologic modeling, water resource management, and flood forecasting.
+   - Data updated in near-real-time.
+
+10. **European Flood Awareness System (EFAS)**  
+    🔗 [https://www.efas.eu/](https://www.efas.eu/)  
+    ✅ **Features**:
+    - Provides flood forecasts and risk analysis for Europe.
+    - Integrates hydrological models and meteorological predictions.
+
+11. **USGS WaterWatch**  
+    🔗 [https://waterwatch.usgs.gov/](https://waterwatch.usgs.gov/)  
+    ✅ **Features**:
+    - Visualizes real-time streamflow conditions compared to historical data.
+    - Includes maps and graphs for drought and flood monitoring.
+
+12. **International River Boundaries Database (IRBD)**  
+    🔗 [https://www.transboundarywaters.orst.edu/](https://www.transboundarywaters.orst.edu/)  
+    ✅ **Features**:
+    - Provides geospatial data on river boundaries for transboundary river systems worldwide.
+    - Useful for international water resource management and hydrologic modeling.
+
+13. **USACE Reservoir Control Data**  
+    🔗 [https://www.usace.army.mil/](https://www.usace.army.mil/)  
+    ✅ **Features**:
+    - Real-time reservoir levels and operations.
+    - Data supports water supply, flood control, and hydropower operations.
+
+14. **World Bank River Basin Data**  
+    🔗 [https://datacatalog.worldbank.org/](https://datacatalog.worldbank.org/)  
+    ✅ **Features**:
+    - Geospatial data for global river basins.
+    - Includes hydrology, water resources, and socioeconomic indicators.
+
+15. **Copernicus Global Land Service - Water Bodies**  
+    🔗 [https://land.copernicus.eu/global/products/wb](https://land.copernicus.eu/global/products/wb)  
+    ✅ **Features**:
+    - Provides datasets on inland water bodies, rivers, and reservoirs.
+    - Useful for hydrology and water resource studies.
+
 ---
 
 ## 🌦️ Climate and Meteorological Data
