@@ -4,11 +4,11 @@
    </a>
    </p>
    
-<h1 align="center">🗺️ Geospatial Data for Earth Science 🌎</h1>
+<h1 align="center">🗺️ Geospatial Data for Earth Sciences 🌎</h1>
 
 
 
-Welcome to the **Geospatial Data Repository**! This repository provides a comprehensive collection of links to trusted sources for geospatial datasets, categorized by type and application. Each entry includes details about the source, features, and any prerequisites for access. Whether you are working on hydrology, urban planning, or climate studies, this repository aims to guide you to the right data for your projects.
+Welcome to the **Geospatial Data for Earth Sciences Repository**! This repository provides a comprehensive collection of links to trusted sources for geospatial datasets, categorized by type and application. Each entry includes details about the source, features, and any prerequisites for access. Whether you are working on hydrology, urban planning, or climate studies, this repository aims to guide you to the right data for your projects.
 
 ---
 
