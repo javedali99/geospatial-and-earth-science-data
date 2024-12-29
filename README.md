@@ -23,8 +23,7 @@ Welcome to the **Earth Science Datasets Repository**! This repository offers a c
 7. [Infrastructure and Urban Data](#🏙️-infrastructure-and-urban-data)
 8. [Natural Hazard Data](#🌋-natural-hazard-data)
 9. [Oceanographic Data](#🌊-oceanographic-data)
-10. [Multi-disciplinary Data Repositories](#🌐-multi-disciplinary-data-repositories)
-11. [Contribution Guidelines](#🤝-contribution-guidelines)
+10. [Contribution Guidelines](#🤝-contribution-guidelines)
 
 
 ---
@@ -534,6 +533,14 @@ Satellite imagery datasets provide high-resolution, multi-spectral data captured
    - Provides imagery at different temporal resolutions for change detection.
    - Accessible via Google Earth Engine.
 
+4. **GEE Community Catalog**  
+    🔗 [https://gee-community-catalog.org/](https://gee-community-catalog.org/)  
+    ✅ **Features**:
+    - A versatile repository offering datasets across multiple disciplines, including satellite imagery, land use, climate, hydrology, and natural hazards.
+    - Fully compatible with Google Earth Engine (GEE), enabling seamless integration for analysis.
+    - Community-driven platform with regular updates and contributions from researchers worldwide.
+    - Ideal for diverse applications such as environmental monitoring, disaster management, and urban planning.
+      
 ---
 
 ## 🏙️ Infrastructure and Urban Data
@@ -849,17 +856,7 @@ Oceanographic datasets offer insights into the physical, chemical, and biologica
     - Includes physical, biogeochemical, and ecological parameters.
     - Supports studies of ocean-atmosphere interactions, carbon cycles, and climate variability.
 
----
 
-## 🌐 Multi-disciplinary Data Repositories
-
-1. **GEE Community Catalog**  
-    🔗 [https://gee-community-catalog.org/](https://gee-community-catalog.org/)  
-    ✅ **Features**:
-    - A versatile repository offering datasets across multiple disciplines, including satellite imagery, land use, climate, hydrology, and natural hazards.
-    - Fully compatible with Google Earth Engine (GEE), enabling seamless integration for analysis.
-    - Community-driven platform with regular updates and contributions from researchers worldwide.
-    - Ideal for diverse applications such as environmental monitoring, disaster management, and urban planning.
 
 ---
 
