@@ -765,7 +765,7 @@ Natural hazard datasets include information on earthquakes, floods, hurricanes, 
     ✅ **Features**:
     - Tracks global disaster events and impacts since 1900.
     - Includes geospatial data for risk assessment and mitigation.
-   - Provides geospatial hazard maps.
+    - Provides geospatial hazard maps.
 
 ---
 
