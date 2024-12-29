@@ -216,23 +216,3 @@ To contribute:
 2. Add your changes in a new branch.
 3. Submit a pull request with a description of your updates.
 
----
-
-## 🌟 Acknowledgments
-
-Special thanks to the organizations and initiatives that make open geospatial data accessible, including:
-- [USGS](https://www.usgs.gov/)
-- [Copernicus Program](https://www.copernicus.eu/)
-- [NOAA](https://www.noaa.gov/)
-
----
-
-## 🛠️ Maintainer
-
-Maintained by [Your Name](https://github.com/yourusername).  
-For questions or suggestions, feel free to open an issue.
-
----
-
-This revised README organizes data sources under clear categories, maintains a clean format, and includes metadata for each link. Let me know if there’s more to refine!
-
