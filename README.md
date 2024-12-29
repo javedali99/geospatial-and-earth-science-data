@@ -21,7 +21,8 @@ Welcome to the **Geospatial Data for Earth Sciences Repository**! This repositor
 6. [Satellite Imagery](#🛰️-satellite-imagery)
 7. [Infrastructure and Urban Data](#🏙️-infrastructure-and-urban-data)
 8. [Natural Hazard Data](#🌋-natural-hazard-data)
-9. [Contribution Guidelines](#🤝-contribution-guidelines)
+9. [Oceanographic Data](#🌊-oceanographic-data)
+10. [Contribution Guidelines](#🤝-contribution-guidelines)
 
 ---
 
@@ -327,6 +328,88 @@ Utilize these sources for natural hazard datasets:
    ✅ **Features**:
    - Real-time alerts for disasters like earthquakes, tsunamis, and cyclones.
    - Provides geospatial hazard maps.
+
+---
+
+# 🌊 Oceanographic Data
+
+Access widely used datasets in the field of oceanography, covering waves, sea surface temperature, salinity, currents, and more:
+
+1. **USACE Wave Information Studies (WIS) Data**  
+   🔗 [https://wisportal.erdc.dren.mil/](https://wisportal.erdc.dren.mil/)  
+   ✅ **Features**:
+   - Provides long-term wave climatology data for U.S. coastal waters.
+   - Includes parameters such as wave height, direction, and period.
+   - Useful for coastal engineering, hydrodynamics, and wave energy studies.
+
+2. **NOAA National Data Buoy Center (NDBC)**  
+   🔗 [https://www.ndbc.noaa.gov/](https://www.ndbc.noaa.gov/)  
+   ✅ **Features**:
+   - Offers real-time and historical oceanographic data from buoys worldwide.
+   - Includes wave height, wave period, wind speed, and sea surface temperature.
+   - Ideal for monitoring marine weather and ocean conditions.
+
+3. **Copernicus Marine Environment Monitoring Service (CMEMS)**  
+   🔗 [https://marine.copernicus.eu/](https://marine.copernicus.eu/)  
+   ✅ **Features**:
+   - Provides global oceanographic datasets, including sea level, sea surface temperature, and currents.
+   - Offers forecasts, reanalysis, and observational data.
+   - Supports ocean monitoring and climate change studies.
+
+4. **NASA Physical Oceanography Distributed Active Archive Center (PO.DAAC)**  
+   🔗 [https://podaac.jpl.nasa.gov/](https://podaac.jpl.nasa.gov/)  
+   ✅ **Features**:
+   - Hosts a wide range of oceanographic datasets, including sea surface height, salinity, and temperature.
+   - Datasets from missions like Jason, Aquarius, and MODIS.
+   - Ideal for studying ocean circulation, climate variability, and sea-level rise.
+
+5. **Global Ocean Observing System (GOOS)**  
+   🔗 [https://www.goosocean.org/](https://www.goosocean.org/)  
+   ✅ **Features**:
+   - Provides observational data on physical, chemical, and biological parameters of the ocean.
+   - Supports sustainable development, climate studies, and ocean health monitoring.
+   - Integrates global observation systems, including Argo floats and moored buoys.
+
+6. **Argo Float Program**  
+   🔗 [https://argo.ucsd.edu/](https://argo.ucsd.edu/)  
+   ✅ **Features**:
+   - Offers temperature, salinity, and ocean current profiles from a global network of floats.
+   - Real-time data for monitoring the upper 2,000 meters of the ocean.
+   - Essential for understanding global ocean circulation and climate change.
+
+7. **NOAA Tides & Currents**  
+   🔗 [https://tidesandcurrents.noaa.gov/](https://tidesandcurrents.noaa.gov/)  
+   ✅ **Features**:
+   - Provides tidal predictions, harmonic constituents, and real-time water level observations.
+   - Includes current speed and direction at specific locations.
+   - Useful for navigation, coastal engineering, and flood risk studies.
+
+8. **Global Sea Surface Temperature (SST) Data**  
+   🔗 [https://www.ncei.noaa.gov/products/sea-surface-temperature](https://www.ncei.noaa.gov/products/sea-surface-temperature)  
+   ✅ **Features**:
+   - Offers high-resolution SST datasets from satellite and in-situ observations.
+   - Supports marine ecosystem studies, climate monitoring, and fisheries research.
+
+9. **GEBCO (General Bathymetric Chart of the Oceans)**  
+   🔗 [https://www.gebco.net/](https://www.gebco.net/)  
+   ✅ **Features**:
+   - Provides global bathymetric data for ocean floor mapping.
+   - Useful for marine geology, navigation, and habitat studies.
+   - Available in gridded formats and visualizations.
+
+10. **HYCOM (Hybrid Coordinate Ocean Model)**  
+    🔗 [https://www.hycom.org/](https://www.hycom.org/)  
+    ✅ **Features**:
+    - Offers global ocean circulation model outputs, including temperature, salinity, and currents.
+    - Combines satellite observations and in-situ data.
+    - Useful for operational oceanography and climate research.
+
+11. **OceanSITES**  
+    🔗 [https://www.oceansites.org/](https://www.oceansites.org/)  
+    ✅ **Features**:
+    - Long-term time-series observations at fixed ocean locations.
+    - Includes physical, biogeochemical, and ecological parameters.
+    - Supports studies of ocean-atmosphere interactions, carbon cycles, and climate variability.
 
 ---
 
