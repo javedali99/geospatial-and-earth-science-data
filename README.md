@@ -72,7 +72,16 @@ Explore these trusted sources for high-resolution Digital Elevation Models (DEMs
    ✅ **Features**:
    - Allows analysis of DEMs and other geospatial data.
    - Requires programming knowledge (JavaScript or Python API).
-
+     
+8. **Google Earth Engine Dataset Catalog - DEMs**  
+   🔗 [https://developers.google.com/earth-engine/datasets/catalog](https://developers.google.com/earth-engine/datasets/catalog)  
+   ✅ **Features**:
+   - Includes DEM datasets such as:
+     - SRTM Digital Elevation Database.
+     - ASTER Global Digital Elevation Model (GDEM).
+   - Global coverage with varying resolutions.
+   - Free access for research and analysis with a Google Earth Engine account.
+   - Requires programming knowledge (JavaScript or Python API) to interact with the datasets.
 ---
 
 ## 🗺️ Administrative Boundaries
@@ -131,7 +140,16 @@ Access cutting-edge climate and meteorological datasets:
    - Multi-model climate projections.
    - Widely used in IPCC reports and climate research.
    - Free access for registered users.
-
+     
+3. **Google Earth Engine Dataset Catalog - Climate**  
+   🔗 [https://developers.google.com/earth-engine/datasets/catalog](https://developers.google.com/earth-engine/datasets/catalog)  
+   ✅ **Features**:
+   - Offers climate datasets such as:
+     - ERA5 hourly data on single levels from 1979 to present.
+     - CHIRPS rainfall estimates.
+   - Covers global historical and real-time datasets.
+   - Requires programming knowledge to access via Google Earth Engine.
+     
 ---
 
 ## 🌳 Land Use and Land Cover
@@ -150,7 +168,16 @@ Explore these platforms for land use and land cover data:
    - Global land cover classifications.
    - Updated annually.
    - Suitable for large-scale studies.
-
+     
+3. **Google Earth Engine Dataset Catalog - Land Cover**  
+   🔗 [https://developers.google.com/earth-engine/datasets/catalog](https://developers.google.com/earth-engine/datasets/catalog)  
+   ✅ **Features**:
+   - Provides extensive land cover datasets, including:
+     - MODIS Land Cover Type product.
+     - ESA WorldCover 2020.
+   - Facilitates research on vegetation, urbanization, and land changes.
+   - Accessible with Google Earth Engine tools.
+     
 ---
 
 ## 🛰️ Satellite Imagery
@@ -170,6 +197,16 @@ Find high-resolution satellite imagery for remote sensing applications:
    - Long-term archive of optical satellite imagery.
    - Free to download.
    - Useful for time-series analysis and land cover change detection.
+  
+3. **Google Earth Engine Dataset Catalog - Satellite Imagery**  
+   🔗 [https://developers.google.com/earth-engine/datasets/catalog](https://developers.google.com/earth-engine/datasets/catalog)  
+   ✅ **Features**:
+   - Includes various satellite imagery datasets:
+     - Landsat Collections.
+     - Sentinel-2 Surface Reflectance.
+     - MODIS imagery products.
+   - Provides imagery at different temporal resolutions for change detection.
+   - Accessible via Google Earth Engine.
 
 ---
 
