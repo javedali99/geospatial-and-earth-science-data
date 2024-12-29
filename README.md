@@ -420,6 +420,14 @@ Below is a list of widely used datasets, offering global and regional climate in
     - Federated repository of Earth and environmental data.
     - Includes datasets on ecology, hydrology, and climate.
     - Provides tools for data discovery, integration, and sharing.
+
+19. **Caravan Dataset**  
+   🔗 [https://zenodo.org/records/10968468](https://zenodo.org/records/10968468)  
+   ✅ **Features**:
+   - Open community dataset of meteorological forcing data, catchment attributes, and discharge data for catchments around the world.
+   - Includes code to derive meteorological forcing data and catchment attributes from cloud-based data sources, enabling easy extension to new catchments.
+   - Supports hydrology, meteorology, and climate research projects.
+
 ---
 
 ## 🌳 Land Use and Land Cover
