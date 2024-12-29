@@ -152,44 +152,45 @@ Leverage these sources for water resource datasets:
    ✅ **Features**:
    - Interactive tool for streamflow statistics, drainage area delineation, and watershed characteristics.
    - Includes data for hydrological and flood frequency analysis.
+  
+8. **USACE Wave Information Studies (WIS) Data**  
+   🔗 [https://wisportal.erdc.dren.mil/](https://wisportal.erdc.dren.mil/)  
+   ✅ **Features**:
+   - Provides long-term wave climatology data for U.S. coastal waters.
+   - Includes parameters such as wave height, direction, and period.
+   - Useful for coastal engineering, hydrodynamics, and wave energy studies.
 
-8. **Global Flood Awareness System (GloFAS)**  
+9. **Global Flood Awareness System (GloFAS)**  
    🔗 [https://www.globalfloods.eu/](https://www.globalfloods.eu/)  
    ✅ **Features**:
    - Operated by the Copernicus Emergency Management Service.
    - Provides global flood forecasts and risk maps.
    - Combines hydrological models with meteorological forecasts.
 
-9. **NASA Global Precipitation Measurement (GPM) Mission**  
+10. **NASA Global Precipitation Measurement (GPM) Mission**  
    🔗 [https://gpm.nasa.gov/data-access/downloads/gpm](https://gpm.nasa.gov/data-access/downloads/gpm)  
    ✅ **Features**:
    - Offers high-resolution precipitation datasets.
    - Useful for hydrologic modeling, water resource management, and flood forecasting.
    - Data updated in near-real-time.
 
-10. **European Flood Awareness System (EFAS)**  
+11. **European Flood Awareness System (EFAS)**  
     🔗 [https://www.efas.eu/](https://www.efas.eu/)  
     ✅ **Features**:
     - Provides flood forecasts and risk analysis for Europe.
     - Integrates hydrological models and meteorological predictions.
 
-11. **USGS WaterWatch**  
+12. **USGS WaterWatch**  
     🔗 [https://waterwatch.usgs.gov/](https://waterwatch.usgs.gov/)  
     ✅ **Features**:
     - Visualizes real-time streamflow conditions compared to historical data.
     - Includes maps and graphs for drought and flood monitoring.
 
-12. **International River Boundaries Database (IRBD)**  
+13. **International River Boundaries Database (IRBD)**  
     🔗 [https://www.transboundarywaters.orst.edu/](https://www.transboundarywaters.orst.edu/)  
     ✅ **Features**:
     - Provides geospatial data on river boundaries for transboundary river systems worldwide.
     - Useful for international water resource management and hydrologic modeling.
-
-13. **USACE Reservoir Control Data**  
-    🔗 [https://www.usace.army.mil/](https://www.usace.army.mil/)  
-    ✅ **Features**:
-    - Real-time reservoir levels and operations.
-    - Data supports water supply, flood control, and hydropower operations.
 
 14. **World Bank River Basin Data**  
     🔗 [https://datacatalog.worldbank.org/](https://datacatalog.worldbank.org/)  
