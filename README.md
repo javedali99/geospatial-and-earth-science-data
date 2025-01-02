@@ -5,7 +5,7 @@
    </a>
    </p>
    
-<h1 align="center">🌐 Datasets for Earth Sciences and Applications 🌎</h1>
+<h1 align="center">🌐 geospatial and Earth Sciences Datasets 🌎</h1>
 
 
 
