@@ -908,6 +908,14 @@ Oceanographic datasets offer insights into the physical, chemical, and biologica
     - Includes physical, biogeochemical, and ecological parameters.
     - Supports studies of ocean-atmosphere interactions, carbon cycles, and climate variability.
 
+12. **Ocean Biodiversity Information System (OBIS)**  
+   🔗 [https://obis.org/](https://obis.org/)  
+   ✅ **Features**:
+   - The world’s largest open-access database for marine biodiversity.
+   - Provides spatial data on marine species and ecosystems.
+   - Essential for mapping and understanding marine biodiversity.
+
+
 ---
 
 ## 🌱 Ecology and Biodiversity
