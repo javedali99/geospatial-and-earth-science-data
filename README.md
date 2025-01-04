@@ -813,15 +813,11 @@ Natural hazard datasets include information on earthquakes, floods, hurricanes, 
     - Tracks drought conditions globally using satellite and ground-based data.
     - Provides historical and real-time drought severity assessments.
 
-19. **CATDAT Natural Disaster Database**  
+19. **International Disaster Database (EM-DAT)**  
     🔗 [https://www.emdat.be/](https://www.emdat.be/)  
     ✅ **Features**:
     - Comprehensive database of natural disaster impacts globally.
     - Includes data on fatalities, economic losses, and affected areas.
-
-20. **International Disaster Database (EM-DAT)**  
-    🔗 [https://www.emdat.be/](https://www.emdat.be/)  
-    ✅ **Features**:
     - Tracks global disaster events and impacts since 1900.
     - Includes geospatial data for risk assessment and mitigation.
     - Provides geospatial hazard maps.
