@@ -17,7 +17,7 @@ Welcome to the **Earth Science and Geospatial Datasets Repository**! This reposi
 1. [Digital Elevation Models (DEMs)](#🌍-digital-elevation-models-(dems))
 2. [Administrative Boundaries](#🗺️-administrative-boundaries)
 3. [Hydrology and Water Resources](#💧-hydrology-and-water-resources)
-4. [Climate and Meteorological Data](#🌦️-climate-and-meteorological-data)
+4. [Climate, Environmental and Meteorological Data](#🌦️-climate-environmental-and-meteorological-data)
 5. [Land Use and Land Cover](#🌳-land-use-and-land-cover)
 6. [Satellite Imagery](#🛰️-satellite-imagery)
 7. [Infrastructure, Population and Urban Data](#🏙️-infrastructure-population-and-urban-data)
