@@ -113,6 +113,19 @@ Administrative boundary datasets define geopolitical boundaries, including count
    - JSON, SQL, and CSV formats available for seamless integration.
    - Provides administrative boundary data useful for applications in GIS, urban planning, and socio-economic analysis.
 
+4. **DIVA-GIS**  
+   🔗 [https://diva-gis.org](https://diva-gis.org)  
+   ✅ **Features**:  
+   - Country-level data on climate, population, and administrative boundaries.  
+   - Formats: Shapefile.  
+
+5. **Africa GeoPortal**  
+   🔗 [https://africageoportal.com](https://africageoportal.com)  
+   ✅ **Features**:  
+   - Administrative boundaries, land cover, and infrastructure across Africa.  
+   - Formats: Shapefile, GeoJSON.
+  
+     
 --- 
 
 
@@ -286,9 +299,9 @@ Hydrology and water resource datasets offer insights into river basins, water bo
 
 ---
 
-## 🌦️ Climate and Meteorological Data
+## 🌦️ Climate, Environmental and Meteorological Data
 
-Climate and meteorological datasets provide crucial information for understanding and analyzing atmospheric conditions, historical trends, and future projections. These datasets support a variety of applications, including climate change research, agricultural planning, disaster risk assessment, and weather forecasting.
+Climate, environmental and meteorological datasets provide crucial information for understanding and analyzing atmospheric conditions, historical trends, and future projections. These datasets support a variety of applications, including climate change research, agricultural planning, disaster risk assessment, and weather forecasting.
 
 Below is a list of widely used datasets, offering global and regional climate information such as temperature, precipitation, wind, humidity, and more.
 
@@ -435,6 +448,18 @@ Below is a list of widely used datasets, offering global and regional climate in
    - Includes variables such as temperature, precipitation, sea level pressure, and wind.
    - Offers historical and real-time data for climate analysis and forecasting.
    - Widely used for climate research, atmospheric modeling, and hydrological studies.
+
+21. **FAO GeoNetwork**  
+   🔗 [https://fao.org/geonetwork](https://fao.org/geonetwork)  
+   ✅ **Features**:  
+   - Agriculture, fisheries, and environmental data.  
+   - Formats: Shapefile, GeoJSON.  
+
+22. **UNEP Environmental Data Explorer**  
+   🔗 [https://uneplive.unep.org](https://uneplive.unep.org)  
+   ✅ **Features**:  
+   - Environmental indicators and spatial datasets.  
+   - Formats: Shapefile, GeoJSON. 
 
 ---
 
@@ -698,6 +723,12 @@ Infrastructure and urban datasets provide detailed information on roads, buildin
    - Open database providing detailed characteristics for over 200 million individual buildings across Europe.
    - Includes information on building stock, footprints, and other attributes.
    - Ideal for urban planning, infrastructure studies, and sustainability research.
+
+18. **NASA Socioeconomic Data and Applications Center (SEDAC)**  
+   🔗 [https://sedac.ciesin.columbia.edu](https://sedac.ciesin.columbia.edu)  
+   ✅ **Features**:  
+   - Population, infrastructure, and environmental indicators.  
+   - Formats: Shapefile, GeoJSON, KML.
 
 ---
 
